@@ -1,0 +1,2 @@
+$ julia --project=@. -e "using Pkg; Pkg.build()"
+$ julia --project=@. -e "using WbDav; WbDav.serve()"
